@@ -1,0 +1,9 @@
+C:\MonProjet\ObserverProject\bin\Debug\ObserverProject.exe.config
+C:\MonProjet\ObserverProject\bin\Debug\ObserverProject.exe
+C:\MonProjet\ObserverProject\bin\Debug\ObserverProject.pdb
+C:\MonProjet\ObserverProject\obj\Debug\ObserverProject.csproj.AssemblyReference.cache
+C:\MonProjet\ObserverProject\obj\Debug\ObserverProject.Properties.Resources.resources
+C:\MonProjet\ObserverProject\obj\Debug\ObserverProject.csproj.GenerateResource.cache
+C:\MonProjet\ObserverProject\obj\Debug\ObserverProject.csproj.CoreCompileInputs.cache
+C:\MonProjet\ObserverProject\obj\Debug\ObserverProject.exe
+C:\MonProjet\ObserverProject\obj\Debug\ObserverProject.pdb
